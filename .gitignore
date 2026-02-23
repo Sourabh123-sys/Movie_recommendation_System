@@ -1,0 +1,6 @@
+data/credits.csv
+data/ratings.csv
+venv/
+__pycache__/
+*.pyc
+.env
